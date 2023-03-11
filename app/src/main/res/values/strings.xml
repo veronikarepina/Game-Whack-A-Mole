@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Whac-A-Mole</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="play">Play</string>
+    <string name="rulesTitle">Rules:</string>
+    <string name="rulesText">Whack as many moles as possible in 30 seconds</string>
+    <string name="highScoreTitle">High score:</string>
+    <string name="scoreTitle">Score:</string>
+    <string name="emptyScore">0</string>
+    <string name="playAgain">Play again</string>
+    <string name="menu">Menu</string>
+    <string name="time">Time:</string>
+</resources>
